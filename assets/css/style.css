@@ -1,7 +1,7 @@
 
 :root {
-  --primarybirght: #ebb60a;
-  --primarylight: #ebb60a;
+  --primarybirght: #9b6783;
+  --primarylight: #976280;
 
   --white: #ffffff;
 
@@ -36,7 +36,7 @@
 
   content: "";
   position: fixed;
-  background:  url("../../assets/img/bgme.jpeg") top right no-repeat;
+  background:  url("../../assets/img/the\ last\ one\ .JPG") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
